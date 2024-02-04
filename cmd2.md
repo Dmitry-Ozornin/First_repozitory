@@ -67,5 +67,5 @@ git merge имя ветки
 ```
 Удаление ветки
 ```sh
-git branch -d имя ветки
+git branch -d файловое имя
 ```
