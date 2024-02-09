@@ -85,3 +85,7 @@ git remote add origin git remote add origin https://github.com/Dmitry-Ozornin/
 git branch -M main
 git push -u origin main
 ```
+Запрос изменений с удаленного сервера
+```sh
+git pull
+```
