@@ -68,3 +68,20 @@ git merge имя ветки
 ```sh
 git branch -d файловое имя
 ```
+Просмотр истории работы с веткам
+```sh
+git log --graph
+git log --oneline --graph
+```
+### Работа с удаленным репозиторием
+
+Скачивание репорзитория с github.com
+```sh
+git clone адресная ссылка с github
+```
+Привязка удаленного реозитория
+```sh
+git remote add origin git remote add origin https://github.com/Dmitry-Ozornin/
+git branch -M main
+git push -u origin main
+```
