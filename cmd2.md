@@ -93,3 +93,7 @@ git pull
 ```sh
 git push
 ```
+Добавление ветки на удаленные репозиторий
+```sh
+git push --set-upstream origin название ветки
+```
