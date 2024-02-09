@@ -89,3 +89,7 @@ git push -u origin main
 ```sh
 git pull
 ```
+Заливка на сервер
+```sh
+git push
+```
