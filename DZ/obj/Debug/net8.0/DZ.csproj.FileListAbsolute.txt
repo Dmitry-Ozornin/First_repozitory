@@ -1,0 +1,15 @@
+C:\Users\FOX\Desktop\git\DZ\bin\Debug\net8.0\DZ.exe
+C:\Users\FOX\Desktop\git\DZ\bin\Debug\net8.0\DZ.deps.json
+C:\Users\FOX\Desktop\git\DZ\bin\Debug\net8.0\DZ.runtimeconfig.json
+C:\Users\FOX\Desktop\git\DZ\bin\Debug\net8.0\DZ.dll
+C:\Users\FOX\Desktop\git\DZ\bin\Debug\net8.0\DZ.pdb
+C:\Users\FOX\Desktop\git\DZ\obj\Debug\net8.0\DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOX\Desktop\git\DZ\obj\Debug\net8.0\DZ.AssemblyInfoInputs.cache
+C:\Users\FOX\Desktop\git\DZ\obj\Debug\net8.0\DZ.AssemblyInfo.cs
+C:\Users\FOX\Desktop\git\DZ\obj\Debug\net8.0\DZ.csproj.CoreCompileInputs.cache
+C:\Users\FOX\Desktop\git\DZ\obj\Debug\net8.0\DZ.sourcelink.json
+C:\Users\FOX\Desktop\git\DZ\obj\Debug\net8.0\DZ.dll
+C:\Users\FOX\Desktop\git\DZ\obj\Debug\net8.0\refint\DZ.dll
+C:\Users\FOX\Desktop\git\DZ\obj\Debug\net8.0\DZ.pdb
+C:\Users\FOX\Desktop\git\DZ\obj\Debug\net8.0\DZ.genruntimeconfig.cache
+C:\Users\FOX\Desktop\git\DZ\obj\Debug\net8.0\ref\DZ.dll
