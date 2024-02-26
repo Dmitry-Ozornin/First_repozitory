@@ -1,0 +1,15 @@
+C:\Users\FOX\Desktop\git\DZ\TEST\obj\Debug\net8.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FOX\Desktop\git\DZ\TEST\obj\Debug\net8.0\TEST.AssemblyInfoInputs.cache
+C:\Users\FOX\Desktop\git\DZ\TEST\obj\Debug\net8.0\TEST.AssemblyInfo.cs
+C:\Users\FOX\Desktop\git\DZ\TEST\obj\Debug\net8.0\TEST.csproj.CoreCompileInputs.cache
+C:\Users\FOX\Desktop\git\DZ\TEST\obj\Debug\net8.0\TEST.sourcelink.json
+C:\Users\FOX\Desktop\git\DZ\TEST\bin\Debug\net8.0\TEST.exe
+C:\Users\FOX\Desktop\git\DZ\TEST\bin\Debug\net8.0\TEST.deps.json
+C:\Users\FOX\Desktop\git\DZ\TEST\bin\Debug\net8.0\TEST.runtimeconfig.json
+C:\Users\FOX\Desktop\git\DZ\TEST\bin\Debug\net8.0\TEST.dll
+C:\Users\FOX\Desktop\git\DZ\TEST\bin\Debug\net8.0\TEST.pdb
+C:\Users\FOX\Desktop\git\DZ\TEST\obj\Debug\net8.0\TEST.dll
+C:\Users\FOX\Desktop\git\DZ\TEST\obj\Debug\net8.0\refint\TEST.dll
+C:\Users\FOX\Desktop\git\DZ\TEST\obj\Debug\net8.0\TEST.pdb
+C:\Users\FOX\Desktop\git\DZ\TEST\obj\Debug\net8.0\TEST.genruntimeconfig.cache
+C:\Users\FOX\Desktop\git\DZ\TEST\obj\Debug\net8.0\ref\TEST.dll
