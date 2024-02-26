@@ -45,7 +45,7 @@ class UserInputToCompileForTest
     public static void PrintResult(int[] array)
     {
       
-      Console.WriteLine($"{CountItemsRange(array, 10, 99)}");
+      Console.WriteLine($"{CountItemsRange(array, 10, 90)}");
         
     }
      
