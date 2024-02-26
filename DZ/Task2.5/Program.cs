@@ -25,19 +25,13 @@ class UserInputToCompileForTest
       for ( int i = 0; i < numbers.Length; i++)
       {
         
-        if (numbers[i] < minRange && numbers[i] > maxRange)
+        if (numbers[i] >= minRange && numbers[i] <= maxRange)
         {
           
-          i++;
+         c = c + 1;
           
         }
-        else
-        {
-            c = c + 1;
-            i++;
-        }
-       
-        
+    
       }
       return c;
     }
