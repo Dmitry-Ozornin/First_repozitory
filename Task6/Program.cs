@@ -42,17 +42,43 @@
 // double result = CalculateFormula( 1, 2, 3, 4);
 // Console.WriteLine(result);
 
-// Задача 2
+// // Задача 2
 
-void PrintSquares( int n)
+// void PrintSquares( int n)
+// {
+//     int i = 1;
+//     while ( i <= n)
+//     {
+//         Console.Write($"{i*i} ");
+//         i++;
+//     }
+// }
+// PrintSquares( 5);
+// PrintSquares( 10);
+// PrintSquares( 15);
+
+
+// Задача 3: Функция которая обнулит четные элементы массива
+
+void ZeroEvenElements (int[] arr)
 {
-    int i = 1;
-    while ( i <= n)
+    for (int i = 0; i < arr.Length; i++)
     {
-        Console.Write($"{i*i} ");
-        i++;
+        if (arr[i] % 2 == 0)
+        {
+            arr[i] = 0;
+        }
     }
 }
-PrintSquares( 5);
-PrintSquares( 10);
-PrintSquares( 15);
+
+void PrintArray(int[] arr)
+{
+    foreach (int e in arr)
+    {
+        Console.Write($"{e} ");
+    }
+}
+
+int[] array = { 1, 2, 3,4,5};
+ZeroEvenElements (array);
+PrintArray(array);
