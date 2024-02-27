@@ -32,12 +32,27 @@
 
 //Задача 1
 
-double CalculateFormula(int a, int b, int c, int d)
+// double CalculateFormula(int a, int b, int c, int d)
+// {
+//     double numerator = a * b;
+//     int denomerator = c + d;
+//     double result = numerator / denomerator;
+//     return result;
+// }
+// double result = CalculateFormula( 1, 2, 3, 4);
+// Console.WriteLine(result);
+
+// Задача 2
+
+void PrintSquares( int n)
 {
-    double numerator = a * b;
-    int denomerator = c + d;
-    double result = numerator / denomerator;
-    return result;
+    int i = 1;
+    while ( i <= n)
+    {
+        Console.Write($"{i*i} ");
+        i++;
+    }
 }
-double result = CalculateFormula( 1, 2, 3, 4);
-Console.WriteLine(result);
+PrintSquares( 5);
+PrintSquares( 10);
+PrintSquares( 15);
