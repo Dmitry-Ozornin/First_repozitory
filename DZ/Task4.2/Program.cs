@@ -1,4 +1,5 @@
-﻿using System;
+﻿// Задайте двумерный массив. Напишите программу, которая поменяет местами первую и последнюю строку массива.
+using System;
 
 //Тело класса будет написано студентом. Класс обязан иметь статический метод PrintResult()
 class UserInputToCompileForTest
@@ -9,11 +10,11 @@ class UserInputToCompileForTest
         //Напишите свое решение здесь
     }
 
-    // Обмен первой с последней строкой
+// Обмен первой с последней строкой
     public static int[,] SwapFirstLastRows(int[,] array)
     {
         //Напишите свое решение здесь
-        for (int j = 0; j < array.GetLength(1); j++)
+      for (int j = 0; j < array.GetLength(1); j++)
         {
             int temp = array[0, j];
             array[0, j] = array[array.GetLength(0) - 1, j];
@@ -22,17 +23,16 @@ class UserInputToCompileForTest
         return array;
     }
 
-    // Обмен элементами массива
+// Обмен элементами массива
     public static void SwapItems(int[,] array, int i)
     {
-        //Напишите свое решение здесь
-
+       //Напишите свое решение здесь
     }
 
     public static void PrintResult(int[,] numbers)
     {
         //Напишите свое решение здесь
-        int[,] arr = SwapFirstLastRows(numbers);
+      int[,] arr = SwapFirstLastRows(numbers);
         for (int i = 0; i < arr.GetLength(0); i++)
         {
             for (int j = 0; j < arr.GetLength(1); j++)
@@ -41,12 +41,6 @@ class UserInputToCompileForTest
             }
             Console.WriteLine();
         }
-
-
-
-
-
-
     }
 }
 
@@ -93,7 +87,7 @@ class Answer
                 {1, 2, 3, 4},
                 {5, 6, 7, 8},
                 {9, 10, 11, 12}
-            };
+            }; 
         }
         UserInputToCompileForTest.PrintResult(numbers);
     }
